@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Vancouver SEO Experts on Gihub Pages
 
-You can use the [editor on GitHub](https://github.com/seogurus/Vancouver-SEO-Experts/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If your business is looking for more customers in the Vancouver, BC area, you are in the perfect place. Our company Vancouver SEO Experts specializes in bringing new customers to your business, no matter what area of work you are in.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have well over 10 years of experience with search engine optimization, reputation management, social media and web design services. Not only can we get your website and other web properties ranked to the top of the search engines like Google – but we can, and have, literally blanketed the first page for many businesses in Vancouver, BC and across the entire globe.
 
-### Markdown
+Unfortunately, most SEO companies have no idea what they are doing, and will only hurt the presence of your website in the search engines by doing poor quality SEO. We know what we are doing and our results have proven it time and time again.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Next Steps
+If you are ready to take the next step and make the decision to go with Vancouver SEO Experts as your choice for an online marketing platform, feel free to contact us right away. We are ready to [10X your business](http://www.vancouverseoexperts.org/discovery/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seogurus/Vancouver-SEO-Experts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
